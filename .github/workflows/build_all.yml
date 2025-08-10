@@ -1,5 +1,5 @@
 name: Build ALL extensions
-
+ 
 on:
   workflow_dispatch:
     inputs:
